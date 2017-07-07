@@ -1,0 +1,16 @@
+### Module positions - created on Tuesday, June 27, 2017 'AMt' 09:39:20 AM ###
+### Printed by Pcbnew version kicad 4.0.5
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val            Package                PosX       PosY       Rot  Side
+B1        BUZZ           BUZZ               140.4620   -72.7710  270.0000  bottom
+D1        D_Schottky     D_0603             143.9316   -99.2378  180.0000  bottom
+D18       D_Schottky     D_0603             139.5476   -94.2137   90.0000  bottom
+P6        CONN_01X03     BAT                139.7000  -106.6800   90.0000  bottom
+Q2        Q_NPN_BCE      SOT-23             136.8400   -92.3392    0.0000  bottom
+R4        330            R_0201             136.9771   -87.7976    0.0000  bottom
+U3        P_SWITCH       P_SWITCH           136.5250   -82.1690    0.0000  bottom
+U5        LP5907         LP5907             139.7457   -98.7704  180.0000  bottom
+V1        VIB            VIB                140.5890   -75.5650   90.0000  bottom
+X1        TC2030-MCP-NL  TC2030-MCP-NL      135.2042   -69.3674    0.0000  bottom
+## End
